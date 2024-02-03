@@ -65,7 +65,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/zuha-qammar-166882214/"><img src="https://img.shields.io/badge/-Zuha%20Qammar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:contact@Ms.zuhaqammar@gmail.com"><img src="https://img.shields.io/badge/-contact@saadhassan.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:contact@Ms.zuhaqammar@gmail.com"><img src="https://img.shields.io/badge/-contact@Ms.zuhaqammar.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
