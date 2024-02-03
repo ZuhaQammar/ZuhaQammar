@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Zuha</h1>
 <h3 align="center">A passionate developer,coder and a team player!</h3>
 
-- 🔭 I’m currently working as **frontend developer using React.**
+- 🔭 I’m working as a **frontend developer using React.**
 
 - 🌱 I’m currently learning **Mern Stack**
 
