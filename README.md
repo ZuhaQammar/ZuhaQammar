@@ -12,6 +12,9 @@
 - 👯 I’m looking to collaborate **with other content creators and developers.**
 
 - 💬 Ask me about **react**
+  
+- ⚡ Fun fact I love coding and I'm a quick learner.
+
 <h2><i>💻 Tech Stack and Tools</i></h2>
 
 <table width="100">
