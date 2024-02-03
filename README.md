@@ -38,7 +38,7 @@
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60">
     </td>
     <td align='center' width="190">
         <img src="https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png"  width="60" height="60">
@@ -52,8 +52,11 @@
      <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60">
     </td>
-     <td align='center' width="190">
-        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
+     <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+    </td>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="40">
     </td>
    
 </tr>
@@ -62,7 +65,7 @@
 
 
 ## 🤝🏻 &nbsp;Connect with Me
-
+<br>
 <p align="center">
 <a href="https://www.linkedin.com/in/zuha-qammar-166882214/"><img src="https://img.shields.io/badge/-Zuha%20Qammar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:contact@Ms.zuhaqammar@gmail.com"><img src="https://img.shields.io/badge/-contact@Ms.zuhaqammar.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
