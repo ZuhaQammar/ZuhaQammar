@@ -72,9 +72,9 @@
 
 <p align="center">
 <a href="https://github.com/ZuhaQammar">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=zuhaqammar&show_icons=true&locale=en&layout=compact" alt="zuhaqammar" &langs_count=8&theme=algolia"/>
+  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=zuhaqammar&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zuhaqammar&" alt="zuhaqammar&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zuhaqammar&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 
 
