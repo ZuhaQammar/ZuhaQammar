@@ -12,14 +12,74 @@
 - 👯 I’m looking to collaborate **with other content creators and developers.**
 
 - 💬 Ask me about **react**
+<h2><i>💻 Tech Stack and Tools</i></h2>
+
+<table width="100">
+<tr>
+    <td align='center' width="190">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png"  width="60" height="60">
+    </td>
+     <td align='center' width="190">
+        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
+    </td>
+   
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="80">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.skillfinder.com.au/media/wysiwyg/mongodb-logo-skill-finder.png">
+    </td>
+   
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="60" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="80" height="90">
+    </td>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" height="60" width="60">
+    </td>
+    
+</tr>
+
+</table>
+
+<br />
+<br />
+
+## 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/zuha-qammar-166882214/"><img src="https://img.shields.io/badge/-Saad%20Hassan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:contact@saad-hassan.com"><img src="https://img.shields.io/badge/-contact@saadhassan.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
+<h2><i>⚙️ GitHub Analytics</i></h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="https://github.com/ZuhaQammar">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=zuhaqammar&show_icons=true&locale=en&layout=compact" alt="zuhaqammar" &langs_count=8&theme=algolia"/>
+</a>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zuhaqammar&" alt="zuhaqammar&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuhaqammar&show_icons=true&locale=en&layout=compact" alt="zuhaqammar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zuhaqammar&" alt="zuhaqammar" /></p>
-
-
+# Github Metrics
+<p align="center">
+	<img width="625em" src="https://github.com/ZuhaQammar/ZuhaQammar/blob/master/github-metrics.svg" />
+</p>
