@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **react**
   
+- 🥅 2024 Goals: Contribute more to Open Source projects.
+  
 - ⚡ Fun fact I love coding and I'm a quick learner.
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
